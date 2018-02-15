@@ -1,0 +1,25 @@
+header{
+    border: 3px solid #000000;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    height: 150px;
+    width: 80%;
+}
+
+#input{
+   border: 3px solid #000000;
+    font-size: 100px;
+    text-align: center;
+    margin: 15px auto;
+    height: 150px;
+    width: 80%;
+}
+#counter{
+    border: 3px solid #000000;
+    font-size: 20px;
+    text-align: center;
+    margin: 15px auto;
+    height: 150px;
+    width: 80%;
+}
